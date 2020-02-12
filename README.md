@@ -15,13 +15,23 @@ run the script in your favorite browser console (press F12 on Firefox/Chrome)
 
 ## invoice types
 "C05" = Saúde
+
 "C06" = Educação
+
 "C07" = Imóveis
+
 "C08" = Lares
+
 "C01" = Manutenção e reparação de veículos automóveis
+
 "C02" = Manutenção e reparação de motociclos, de suas peças e acessórios
+
 "C03" = Alojamento, restauração e similares
+
 "C04" = Atividades de salões de cabeleireiro e institutos de beleza
+
 "C09" = Atividades veterinárias
+
 "C10" = Aquisição de passes mensais para utilização de transportes públicos coletivos
+
 "C99" = Outros
