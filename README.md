@@ -1,9 +1,9 @@
 # efaturas_classifier
 Semi-automate your invoices classification at efaturas
 
-This half-assed script only semi-automates the classification (those button that you need to click) of invoices present in each page.
+This half-assed script semi-automates the classification (those button that you need to click) of invoices present in each page.
 
-Meaning that it will click on Sector button for each merchant that you "configure" in the script, it DOES NOT submit each page.
+Meaning that it will click on the Sector button for each merchant that you "configure" in the script, however, it DOES NOT submit each page.
 
 # Disclaimer
 Use at your own risk, I do not take responsibility for any situation.
