@@ -1,7 +1,8 @@
 # efaturas_classifier
 Semi-automate your invoices classification at efaturas
 
-This half assed script only semi-automates the classification (those button that you need to click) of invoices present in each page.
+This half-assed script only semi-automates the classification (those button that you need to click) of invoices present in each page.
+
 Meaning that it will click on Sector button for each merchant that you "configure" in the script, it DOES NOT submit each page.
 
 # Disclaimer
@@ -12,7 +13,7 @@ replace/create/delete/whatever if conditions with your merchant name/NIF combo (
 
 run the script in your favorite browser console (press F12 on Firefox/Chrome)
 
-# invoice types
+## invoice types
 "C05" = Saúde
 "C06" = Educação
 "C07" = Imóveis
