@@ -14,22 +14,22 @@ for (node_number in cnodes2_children){
         if (comerciante == "503819999 - Sector Mais Serviços Globais Em Alimentação Lda" && act_type == "C03"){
           entry.click()
         }
-        if (comerciante == "502001607 - Supermercado Novo Oriente Lda" && act_type == "C03"){
+        if (comerciante == "502001607 - Supermercado Novo Oriente Lda" && act_type == "C99"){
           entry.click()
         }
         if (comerciante == "503074586 - Spdad Soc Portuguesa de Distribuição de Artigos de Desporto Unipessoal Lda" && act_type == "C99"){
           entry.click()
         }
-        if (comerciante == "502011475 - Modelo Continente Hipermercados Sa" && act_type == "C03"){
+        if (comerciante == "502011475 - Modelo Continente Hipermercados Sa" && act_type == "C99"){
           entry.click()
         }
-        if (comerciante == "500829993 - Pingo Doce Distribuicao Alimentar Sa" && act_type == "C03"){
+        if (comerciante == "500829993 - Pingo Doce Distribuicao Alimentar Sa" && act_type == "C99"){
           entry.click()
         }
-        if (comerciante == "503003808 - Dia Portugal Supermercados Sociedade Unipessoal Lda" && act_type == "C03"){
+        if (comerciante == "503003808 - Dia Portugal Supermercados Sociedade Unipessoal Lda" && act_type == "C99"){
           entry.click()
         }
-        if (comerciante == "502607920 - Auchan Retail Portugal, S.A." && act_type == "C03"){
+        if (comerciante == "502607920 - Auchan Retail Portugal, S.A." && act_type == "C99"){
           entry.click()
         }
         if (comerciante == "500498601 - Cp - Comboios de Portugal, Epe" && act_type == "C10"){
